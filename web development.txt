@@ -1,0 +1,32 @@
+favicon - title image icon
+Git
+To link git and github:
+
+To check status
+-> git status
+To configure username and email
+-> git config --global user.name "usernameofgithub in quotes"
+-> git config --global user.email "email"
+To check
+-> git config --global user.name
+-> git config --global user.email
+
+To initialize a git repository
+-> git init
+To add files
+-> git add filename
+To add folders
+-> git add .
+To commit 
+-> git commit -m "Message in quotes/Description"
+To add to specific repository
+-> git remote add origin https://github.com/saikiranj/mern_dsa.git
+To push
+-> git push -u origin master
+
+
+
+
+
+
+
